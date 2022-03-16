@@ -1,4 +1,4 @@
-//Codigo del Cuadrado
+//Codigo del Cuadrado ejem
 console.group("Cuadrados")
 
 //const ladoCuadrado = 5;
